@@ -1,4 +1,4 @@
-baseURL: "example.com"
+baseURL: "https://steady-rocks.github.io/blog/"
 languageCode: en-us
 title: Steady Blog
 theme: PaperMod
@@ -8,17 +8,16 @@ params:
   homeInfoParams:
     Title: "The Modern Workout Tracker Without the Distractions"
     Content: >-
-      Steady is a minimalist gym log app designed for strength training with automatic progressive overload. Track your gym workouts, monitor personal records, and achieve consistent progress with intelligent progression algorithm- all without social feeds or privacy concerns.     
+      Steady is a minimalist gym log app designed for strength training with automatic progressive overload. Track your gym workouts, monitor personal records, and achieve consistent progress with intelligent progression algorithm— all without social feeds or privacy concerns.     
   socialIcons:
     - name: mastodon
       url: 'https://indieapps.space/@steady'
     - name: bluesky
       url: 'https://bsky.app/profile/steadyapp.bsky.social'
   assets:
-  favicon16x16: /assets/favicon-16x16.png
-  favicon32x32: /assets/favicon-32x32.png
-  apple_touch_icon: /assets/apple-touch-icon.png
-      
+    favicon16x16: /assets/favicon-16x16.png
+    favicon32x32: /assets/favicon-32x32.png
+    apple_touch_icon: /assets/apple-touch-icon.png
 
 menu:
   main:
